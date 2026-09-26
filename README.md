@@ -12,7 +12,7 @@
 
 - **语言**：Python（熟悉）、SQL（基础）
 - **ML / DL**：TensorFlow、EfficientNetV2、CNN、自编码器、RNN / BERT
-- **Agent / LLM**：LangGraph、Function Calling、RAG（向量检索 + 生成）
+- **Agent / LLM（系统学习中）**：LangGraph、Function Calling、RAG（向量检索 + 生成）
 - **工程**：Git、虚拟环境（venv）、GitHub 协作、README 文档规范
 
 ## 📚 在学
@@ -23,9 +23,8 @@
 
 ## 🚀 项目
 
-- **[kb-agent](https://github.com/xinghe-602/kb-agent)** — 个人知识库 RAG 问答 Agent：基于 LangGraph 构建，支持向量检索 + 工具调用 + 记忆，作为简历第二个项目。
 - **[w1-python-basics](https://github.com/xinghe-602/w1-python-basics)** — Python 基础收口练习：命令行小工具 + 成绩管理类（`GradeBook`）实现。
-- **[w2-git-practice](https://github.com/xinghe-602/w2-git-practice)** — 环境与协作练习：venv + git 工作流 + README 规范。
+- **[w2-git-practice](https://github.com/xinghe-602/w2-git-practice)** — 从空目录到可复现 Python 隔离环境的小实验：venv + git 工作流 + README 规范。
 
 ## 🤝 开源贡献
 
